@@ -8,8 +8,8 @@
 
 .Dictionary input {
   width: 100%;
-  padding: 6px, 4px;
+  padding: 10px, 10px;
   border-radius: 8px;
   border: 1px solid #ddd;
-  color: #333;
+  line-height: 30px;
 }
